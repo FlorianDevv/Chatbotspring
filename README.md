@@ -4,6 +4,7 @@ This is a simple Vaadin application that allows you to chat with the api of chat
 
 ## Illustration
 ![Alt text](image.png)
+![Alt text](Chatbot.gif)
 
 ## My App (default ReadMe)
 
